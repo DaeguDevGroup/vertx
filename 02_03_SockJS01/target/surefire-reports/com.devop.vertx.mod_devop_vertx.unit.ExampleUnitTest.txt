@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.devop.vertx.mod_devop_vertx.unit.ExampleUnitTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.064 sec

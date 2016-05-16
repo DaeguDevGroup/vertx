@@ -1,0 +1,14 @@
+com\devop\vertx\mod_devop_vertx\integration\javascript\JavaScriptIntegrationTests.class
+com\devop\vertx\mod_devop_vertx\integration\java\BasicIntegrationTest.class
+com\devop\vertx\mod_devop_vertx\integration\groovy\GroovyIntegrationTests.class
+com\devop\vertx\mod_devop_vertx\integration\java\ModuleIntegrationTest.class
+com\devop\vertx\mod_devop_vertx\integration\java\SomeVerticle.class
+com\devop\vertx\mod_devop_vertx\integration\java\BasicIntegrationTest$1$1.class
+com\devop\vertx\mod_devop_vertx\integration\ruby\RubyIntegrationTests.class
+com\devop\vertx\mod_devop_vertx\unit\ExampleUnitTest.class
+com\devop\vertx\mod_devop_vertx\integration\java\BasicIntegrationTest$1.class
+com\devop\vertx\mod_devop_vertx\integration\java\ModuleIntegrationTest$1.class
+com\devop\vertx\mod_devop_vertx\integration\java\BasicIntegrationTest$2.class
+com\devop\vertx\mod_devop_vertx\integration\python\PythonIntegrationTests.class
+com\devop\vertx\mod_devop_vertx\integration\java\ModuleIntegrationTest$2.class
+com\devop\vertx\mod_devop_vertx\integration\java\BasicIntegrationTest$3.class
