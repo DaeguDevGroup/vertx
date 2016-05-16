@@ -1,19 +1,17 @@
-http://vertx.io/vertx2/downloads.html ¿¡¼­ 2.1.5 ¹öÀü ´Ù¿î¹ŞÀ½
+http://vertx.io/vertx2/downloads.html ì—ì„œ 2.1.5 ë²„ì „ ë‹¤ìš´ë°›ìŒ
 
-C:\¿¡ vertx¿¡ ¾ĞÃàÇØÁ¦
+C:\ì— vertxì— ì••ì¶•í•´ì œ
 
-È¯°æº¯¼ö¼¼ÆÃµÚ(http://vertx-kor.otofu.me/install.html)
+í™˜ê²½ë³€ìˆ˜ì„¸íŒ…ë’¤(http://vertx-kor.otofu.me/install.html)
 
-bin\vertx.bat ¿¡ set JVM_OPTS= -Dfile.encoding=UTF8 Ãß°¡
+bin\vertx.bat ì— set JVM_OPTS= -Dfile.encoding=UTF8 ì¶”ê°€
 
-git¿¡¼­ ¼Ò½º ´Ù¿î¹ŞÀºµÚ
+gitì—ì„œ ì†ŒìŠ¤ ë‹¤ìš´ë°›ì€ë’¤
 
-½ÇÇà
+ì»¤ë§¨ë“œì°½ì—ì„œ ì‹¤í–‰ > vertx run TCPServerVerticle.java -cp C:\Users\zarate\workspace\02_03_SockJS01\target\classes
 
-
-
-
-vertx run TCPServerVerticle.java -cp C:\Users\zarate\workspace\02_03_SockJS01\target\classes
+ê·¸í›„ http://localhost/ ë¡œ ì ‘ì†í•´ì„œ ì±„íŒ…
 
 
-ps . JDK 1.8¹öÀü ¼³Ä¡ ÇÊ¼ö(JRE ¾Æ´Ô)
+
+ps . JDK 1.8ë²„ì „ ì„¤ì¹˜ í•„ìˆ˜(JRE ì•„ë‹˜)
