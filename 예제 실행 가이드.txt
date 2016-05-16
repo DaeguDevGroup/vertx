@@ -1,0 +1,19 @@
+http://vertx.io/vertx2/downloads.html 에서 2.1.5 버전 다운받음
+
+C:\에 vertx에 압축해제
+
+환경변수세팅뒤(http://vertx-kor.otofu.me/install.html)
+
+bin\vertx.bat 에 set JVM_OPTS= -Dfile.encoding=UTF8 추가
+
+git에서 소스 다운받은뒤
+
+실행
+
+
+
+
+vertx run TCPServerVerticle.java -cp C:\Users\zarate\workspace\02_03_SockJS01\target\classes
+
+
+ps . JDK 1.8버전 설치 필수(JRE 아님)
